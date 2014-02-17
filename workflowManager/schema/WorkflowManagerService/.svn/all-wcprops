@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/grid-incubation/!svn/ver/296/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService
+END
+ServiceSecurity.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/ServiceSecurity.wsdl
+END
+WorkflowInstanceHelperTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowInstanceHelperTypes.xsd
+END
+WorkflowHelper.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowHelper.wsdl
+END
+WorkflowManager.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/grid-incubation/!svn/ver/232/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowManager.xsd
+END
+WorkflowManagerInstance.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/grid-incubation/!svn/ver/296/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowManagerInstance.wsdl
+END
+WorkflowInvocationHelperTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowInvocationHelperTypes.xsd
+END
+WS-Addressing.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WS-Addressing.xsd
+END
+WorkflowHelper.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowHelper.xsd
+END
+WorkflowInstanceHelper.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowInstanceHelper.wsdl
+END
+WorkflowManagerServiceTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/grid-incubation/!svn/ver/39/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowManagerServiceTypes.xsd
+END
+WorkflowHelperTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowHelperTypes.xsd
+END
+WorkflowInvocationHelper.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/grid-incubation/!svn/ver/291/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowInvocationHelper.wsdl
+END
+WorkflowManagerInstanceTypes.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowManagerInstanceTypes.xsd
+END
+WorkflowManagerService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/schema/WorkflowManagerService/WorkflowManagerService.wsdl
+END

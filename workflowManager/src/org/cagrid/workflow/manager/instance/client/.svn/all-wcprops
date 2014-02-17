@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/grid-incubation/!svn/ver/296/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/client
+END
+client-config.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/client/client-config.wsdd
+END
+WorkflowManagerInstanceClientBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/client/WorkflowManagerInstanceClientBase.java
+END
+WorkflowManagerInstanceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svnroot/grid-incubation/!svn/ver/296/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/client/WorkflowManagerInstanceClient.java
+END

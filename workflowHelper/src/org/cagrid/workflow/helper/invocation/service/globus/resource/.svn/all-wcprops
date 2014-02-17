@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/grid-incubation/!svn/ver/380/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/invocation/service/globus/resource
+END
+WorkflowInvocationHelperResourceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svnroot/grid-incubation/!svn/ver/277/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/invocation/service/globus/resource/WorkflowInvocationHelperResourceConfiguration.java
+END
+WorkflowInvocationHelperResourceHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svnroot/grid-incubation/!svn/ver/254/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/invocation/service/globus/resource/WorkflowInvocationHelperResourceHome.java
+END
+WorkflowInvocationHelperResourceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svnroot/grid-incubation/!svn/ver/277/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/invocation/service/globus/resource/WorkflowInvocationHelperResourceBase.java
+END
+WorkflowInvocationHelperResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svnroot/grid-incubation/!svn/ver/380/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/invocation/service/globus/resource/WorkflowInvocationHelperResource.java
+END

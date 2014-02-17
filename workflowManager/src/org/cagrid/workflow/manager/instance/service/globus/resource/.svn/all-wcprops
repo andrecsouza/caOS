@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/grid-incubation/!svn/ver/299/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/service/globus/resource
+END
+WorkflowManagerInstanceResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svnroot/grid-incubation/!svn/ver/299/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/service/globus/resource/WorkflowManagerInstanceResource.java
+END
+WorkflowManagerInstanceResourceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/service/globus/resource/WorkflowManagerInstanceResourceConfiguration.java
+END
+WorkflowManagerInstanceResourceHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svnroot/grid-incubation/!svn/ver/210/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/service/globus/resource/WorkflowManagerInstanceResourceHome.java
+END
+WorkflowManagerInstanceResourceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svnroot/grid-incubation/!svn/ver/296/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/service/globus/resource/WorkflowManagerInstanceResourceBase.java
+END

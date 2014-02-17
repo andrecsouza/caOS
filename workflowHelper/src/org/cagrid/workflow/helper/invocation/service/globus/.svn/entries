@@ -1,0 +1,55 @@
+8
+
+dir
+1280
+https://gforge.nci.nih.gov/svnroot/grid-incubation/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/invocation/service/globus
+https://gforge.nci.nih.gov/svnroot/grid-incubation
+
+
+
+2009-03-24T17:48:44.074806Z
+380
+cardosoa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c08c9b49-2d82-4a1f-8a7a-239778b9caf1
+
+WorkflowInvocationHelperProviderImpl.java
+file
+
+
+
+
+2010-04-17T03:25:04.000000Z
+b7eda454b14785aac93b55836f725e9a
+2008-12-16T14:06:52.752476Z
+289
+cardosoa
+
+WorkflowInvocationHelperAuthorization.java
+file
+
+
+
+
+2010-04-17T03:25:04.000000Z
+5f719890f71e5836a253f0721ef7994f
+2008-12-16T14:06:52.752476Z
+289
+cardosoa
+
+resource
+dir
+

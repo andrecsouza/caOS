@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/etc
+END
+WorkflowManagerService_registration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/etc/WorkflowManagerService_registration.xml
+END
+WorkflowManagerInstance_registration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/etc/WorkflowManagerInstance_registration.xml
+END
+WorkflowManagerService-security-desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/etc/WorkflowManagerService-security-desc.xml
+END
+WorkflowManagerService-security-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/grid-incubation/!svn/ver/39/trunk/grid-incubation/incubator/projects/workflowManager/etc/WorkflowManagerService-security-metadata.xml
+END
+WorkflowManagerInstance-security-desc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/grid-incubation/!svn/ver/279/trunk/grid-incubation/incubator/projects/workflowManager/etc/WorkflowManagerInstance-security-desc.xml
+END
+WorkflowManagerInstance-security-metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/grid-incubation/!svn/ver/132/trunk/grid-incubation/incubator/projects/workflowManager/etc/WorkflowManagerInstance-security-metadata.xml
+END

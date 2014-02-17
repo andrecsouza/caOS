@@ -1,0 +1,57 @@
+8
+
+dir
+1280
+https://gforge.nci.nih.gov/svnroot/grid-incubation/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/instance/service/globus
+https://gforge.nci.nih.gov/svnroot/grid-incubation
+
+
+
+2009-01-23T17:25:16.134749Z
+299
+cardosoa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c08c9b49-2d82-4a1f-8a7a-239778b9caf1
+
+resource
+dir
+
+WorkflowManagerInstanceProviderImpl.java
+file
+
+
+
+
+2010-04-17T03:23:47.000000Z
+7bebfc0e7d778582ecdeecdcbd711fc9
+2008-12-22T18:41:51.348766Z
+296
+cardosoa
+has-props
+
+WorkflowManagerInstanceAuthorization.java
+file
+
+
+
+
+2010-04-17T03:23:47.000000Z
+e66fbe8eb523871d13f27a49fd7a20f0
+2008-12-22T18:41:51.348766Z
+296
+cardosoa
+has-props
+

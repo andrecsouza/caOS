@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/grid-incubation/!svn/ver/300/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/util
+END
+ConversionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/grid-incubation/!svn/ver/210/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/util/ConversionUtil.java
+END
+ServiceInvocationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/grid-incubation/!svn/ver/300/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/util/ServiceInvocationUtil.java
+END
+CredentialHandlingUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/grid-incubation/!svn/ver/210/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/util/CredentialHandlingUtil.java
+END
+SecurityConfigurationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/grid-incubation/!svn/ver/210/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/util/SecurityConfigurationUtil.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svnroot/grid-incubation/!svn/ver/380/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/instance/service/globus/resource
+END
+WorkflowInstanceHelperResourceConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svnroot/grid-incubation/!svn/ver/277/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/instance/service/globus/resource/WorkflowInstanceHelperResourceConfiguration.java
+END
+WorkflowInstanceHelperResourceHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svnroot/grid-incubation/!svn/ver/254/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/instance/service/globus/resource/WorkflowInstanceHelperResourceHome.java
+END
+WorkflowInstanceHelperResourceBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svnroot/grid-incubation/!svn/ver/277/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/instance/service/globus/resource/WorkflowInstanceHelperResourceBase.java
+END
+WorkflowInstanceHelperResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svnroot/grid-incubation/!svn/ver/380/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/instance/service/globus/resource/WorkflowInstanceHelperResource.java
+END
+CredentialAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svnroot/grid-incubation/!svn/ver/228/trunk/grid-incubation/incubator/projects/workflowHelper/src/org/cagrid/workflow/helper/instance/service/globus/resource/CredentialAccess.java
+END

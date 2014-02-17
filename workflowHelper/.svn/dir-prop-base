@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 33
+build
+ext
+bin
+*.gar
+*.prev
+*.log
+
+END

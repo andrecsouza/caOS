@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/grid-incubation/!svn/ver/295/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/util
+END
+WorkflowDescriptorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svnroot/grid-incubation/!svn/ver/237/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/util/WorkflowDescriptorParser.java
+END
+WorkflowManagerInstanceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/grid-incubation/!svn/ver/237/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/util/WorkflowManagerInstanceParser.java
+END
+NotificationProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/grid-incubation/!svn/ver/295/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/util/NotificationProxy.java
+END
+ScuflWorkflowDescriptionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/grid-incubation/!svn/ver/237/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/util/ScuflWorkflowDescriptionParser.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/grid-incubation/!svn/ver/207/trunk/grid-incubation/incubator/projects/workflowManager/src/org/cagrid/workflow/manager/util/FileUtil.java
+END
